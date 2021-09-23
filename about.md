@@ -16,3 +16,5 @@ background: '/img/bg-about.jpg'
 - Fluent in Korean and English; Conversational in Japanese
 
 - Excellent communication and interpersonal skills and able to work effectively alone or with others
+
+

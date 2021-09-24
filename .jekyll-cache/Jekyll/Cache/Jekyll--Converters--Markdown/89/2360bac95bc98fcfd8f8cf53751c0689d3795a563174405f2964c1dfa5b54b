@@ -1,0 +1,8 @@
+I"Ü<h1 id="north-korean-economy">North Korean Economy</h1>
+
+<pre><code class="language-stata">*Factor analysis
+factor $xlist, mineigen(1)
+factor $xlist, factor($ncomp)
+factor $xlist, factor($ncomp) blanks(.3)
+</code></pre>
+:ET

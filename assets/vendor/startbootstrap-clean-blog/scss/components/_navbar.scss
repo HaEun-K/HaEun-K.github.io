@@ -8,6 +8,12 @@
     .navbar-brand {
         font-weight: 800;
         color: $gray-800;
+        .logo-dark{
+            display: inline;
+        }
+        .logo-light{
+            display: none;
+        }
     }
 
     .navbar-toggler {
@@ -88,6 +94,13 @@
                 &:hover {
                     color: $primary;
                 }
+            }
+
+            .logo-dark{
+                display: none;
+            }
+            .logo-light{
+                display: inline;
             }
 
             .navbar-nav {

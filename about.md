@@ -17,4 +17,5 @@ background: '/img/bg-about.jpg'
 
 - Excellent communication and interpersonal skills and able to work effectively alone or with others
 
+![Diagram](/img/vd.png)
 

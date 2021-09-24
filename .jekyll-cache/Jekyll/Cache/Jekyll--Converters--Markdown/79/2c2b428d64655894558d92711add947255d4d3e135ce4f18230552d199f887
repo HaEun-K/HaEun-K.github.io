@@ -1,0 +1,57 @@
+I"<h2 id="text-analysis-of-an-ancient-korean-language">Text analysis of an ancient Korean language</h2>
+
+<p>This is a sample of my freelance data work for a Hanyang University Ph.D student in 2018 and 2019. I asked for a permission to upload some of my report, and he generously allowed me to do so. My client wanted to read the trend of the era through old newspapers published from the 18th century to the early 19th century. The project took about seven months because of the difficulty of analyzing ancient scripts that are no longer in use.</p>
+
+<p>I analysed a total of <strong>5 old newspapers</strong>, and the following report is a part of the analysis of one of the newspapers. The newspaper was published everyday from <em>1896 to 1899</em>. The main tasks I performed were as follows.</p>
+
+<ul>
+  <li>Programmed a crawling software for text mining</li>
+  <li>Pre-processed the corpus by buidling a bag-of-words model</li>
+  <li>Analysis and visualization</li>
+</ul>
+
+<p>Here is a list of the analyses I did:</p>
+<ul>
+  <li>Frequency based text analysis</li>
+  <li>DTM(document-term matrix), TDM(term-document matrix), and covariance matrix analysis</li>
+  <li>Co-occuring word analysis</li>
+  <li>Network analysis</li>
+  <li>TF-IDF(term frequency-inverse document frequency) measure</li>
+  <li>Linkage analysis</li>
+  <li>Topic modelling</li>
+</ul>
+
+<h3 id="programming-a-crawling-software">Programming a crawling software</h3>
+<p><img src="\img\posts\firstpost\dr1.png" alt="DR1" /></p>
+<h3 id="pre-processing-the-corpus-by-buidling-a-bag-of-words-model">Pre-processing the corpus by buidling a bag-of-words model</h3>
+<p><img src="\img\posts\firstpost\dr2.png" alt="DR2" /></p>
+
+<p>Usually pre-processing takes up most of the text analysis work. It was especially difficult because it was necessary to convert the ancient Korean into a modern language.</p>
+
+<p><img src="\img\posts\firstpost\dr3.png" alt="DR3" /></p>
+
+<p><img src="\img\posts\firstpost\dr4.png" alt="DR4" /></p>
+<h3 id="frequency-based-text-analysis">Frequency based text analysis</h3>
+<p><img src="\img\posts\firstpost\dr5.png" alt="DR5" />
+<img src="\img\posts\firstpost\dr6.png" alt="DR6" /></p>
+<h3 id="built-dtmdocument-term-matrix-tdmterm-document-matrix-and-covariance-matrix">Built DTM(document-term matrix), TDM(term-document matrix), and covariance matrix</h3>
+
+<p><img src="\img\posts\firstpost\dr7.png" alt="DR7" /></p>
+<h3 id="co-occuring-word-analysis">Co-occuring word analysis</h3>
+<p><img src="\img\posts\firstpost\dr8.png" alt="DR8" />
+<img src="\img\posts\firstpost\dr9.png" alt="DR9" /></p>
+<h3 id="topic-modelling">Topic modelling</h3>
+<p><img src="\img\posts\firstpost\dr10.png" alt="DR10" />
+<img src="\img\posts\firstpost\dr11.png" alt="DR10" /></p>
+<h3 id="network-analysis">Network analysis</h3>
+<p><img src="\img\posts\firstpost\dr12.png" alt="DR10" />
+<img src="\img\posts\firstpost\dr13.png" alt="DR10" />
+<img src="\img\posts\firstpost\dr14.png" alt="DR10" /></p>
+<h3 id="tf-idfterm-frequency-inverse-document-frequency-measure">TF-IDF(term frequency-inverse document frequency) measure</h3>
+
+<p><img src="\img\posts\firstpost\dr15.png" alt="DR10" /></p>
+
+<h3 id="linkage-analysis">Linkage analysis</h3>
+<p><img src="\img\posts\firstpost\dr16.png" alt="DR10" />
+<img src="\img\posts\firstpost\dr17.png" alt="DR10" /></p>
+:ET

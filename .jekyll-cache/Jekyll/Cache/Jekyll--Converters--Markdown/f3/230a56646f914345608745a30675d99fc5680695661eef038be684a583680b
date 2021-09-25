@@ -1,8 +1,0 @@
-I",<h1 id="north-korean-economy">North Korean Economy</h1>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*Factor analysis
-factor $xlist, mineigen(1)
-factor $xlist, factor($ncomp)
-factor $xlist, factor($ncomp) blanks(.3)
-</code></pre></div></div>
-:ET
